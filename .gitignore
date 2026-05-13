@@ -1,0 +1,23 @@
+# Visual Studio build output
+bin/
+obj/
+
+# Visual Studio settings
+.vs/
+
+# Git
+.git/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docview
+
+# NuGet
+*.nupkg
+packages/
+
+# OS
+.DS_Store
+Thumbs.db
