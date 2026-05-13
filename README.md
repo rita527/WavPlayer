@@ -57,7 +57,7 @@ dotnet run --project WavPlayer.csproj
 
 ## 截圖
 
-> ![WAV Player 截圖](螢幕擷取畫面 2026-05-13 233340.png)
+ ![WAV Player 截圖](螢幕擷取畫面 2026-05-13 233340.png)
 
 ---
 
